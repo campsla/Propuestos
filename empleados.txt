@@ -1,0 +1,11 @@
+Alberto,Ramirez,12-08-1985,95010
+Raul,Martinez,12-01-1998,60578
+Mariano,Gil,27-02-1982,72500
+Maria,Alvarez,08-10-1996,150000
+Jhon,Rambo,10-10-1986,61250.11
+Algord,Aguirre,29-09-1979,44500
+Raul,Ramirez,23-02-1963,36542
+Marta,Chazarreta,20-03-1980,90559.05
+Diego,Alonzo,03-01-1978,17500
+Roberto,Juarez,12-07-1989,125000
+Armando,Robledo,10-05-1976,11500.50
